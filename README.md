@@ -10,6 +10,7 @@ Creating a RPG and other small games with Javascript for fun.
 
 ## Experience
 I currently work mainly with Windows Server environments (Windows Server and SQL Server 2019-2022 with HyperV) and MS365 (Entra Identity Government and ExO Administration) but I am continuing my personal education in the administration and use of Linux distributions and open source solutions like docker, proxmoxVE and debian based Distributions of Linux.
+I worked Helpdesk for windows Clients for three years, remotely and on site, helping with problems after updates and general issues in connectivity and functinality.
 
 | Software and Languages | Operating Systems | Tools & Platforms |
 |-----------------------|-------------------|-------------------|
