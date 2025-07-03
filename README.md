@@ -1,16 +1,16 @@
 # About me
-I'm an ambitious System Integrator from Germany. I have a keen interest in backend development, cloud services, and digitization projects.
+I'm a System Integrator from Germany. I have a keen interest in backend development, cloud services, and digitization projects.
 
 ## Learning  
-I am currently learning backend development with Docker, NGINX and Node.js as well as workflow and document management with Docuware and JobRouter. 
+I am currently learning backend development with Docker, NGINX and Node.js as well as workflow and document management with Docuware and JobRouter as low- and no-code Plattforms. 
 
 ## Goals
-Creating and administrating interactive websites and cloud services for businesses as well as Workflow and Documentmanagement Tools. 
-I am continuing my personal education in the administration and use of Linux distributions and open source solutions like docker, proxmoxVE and Linux-Distributions.
+Configuring and administrating web and cloud services for businesses as well as Workflow and Documentmanagement Tools for automation and optimization.
+I am continuing my personal education in the administration and use of Solutions like Windows Server, Powershell, docker, proxmoxVE and Linux-Distributions like CentOS and Debian to round off my skills and be future-oriented.
 
 ## Experience
-I currently work mainly with Windows Server environments (Windows Server and SQL Server 2019-2022 with HyperV) and MS365 (Entra Identity Government and ExO Administration).
-Additionaly I worked Helpdesk for windows Clients for three years, remotely and on site, helping with problems after updates and general issues in connectivity and functinality.
+I currently work mainly with Windows Server environments and MS365 (Entra Identity Government and ExO Administration).
+Additionaly I worked as Helpdesk for windows Clients and server, remotely and on site, helping with installations, configurations and integration in the network-environment as well as general troubleshooting.
 
 
 | Software and Languages | Operating Systems | Tools & Platforms |
